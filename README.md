@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Marshal
 - 🔭 I’m currently working on X
 - 🌱 I’m currently learning X
-- 📫 How to reach me Discord : 🔥 Marshal#0129
+- 📫 How to reach me Discord : Marshal#0001
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=marshal0129&theme=dark)](https://github.com/marshal0129)
 
